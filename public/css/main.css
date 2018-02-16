@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background-image: url('../assets/images/making.jpeg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.black-transparent {
+	background-color: rgba(0,0,0,0.4);
+	width: 100%;
+	height: 100vh;
+}
+.signup {
+	margin-top: 8em;
+}
+.logo-image {
+	width: 12em;
+	height: auto;
+}
